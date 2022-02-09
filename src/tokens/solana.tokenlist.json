@@ -103955,6 +103955,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4uMokWQfuPZbg7cmyZCVxtQ7f5qJYs2bwLu3DVo2b87k",
+      "symbol": "cozy",
+      "name": "CozyPenguin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/KarimaPhoenix/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
